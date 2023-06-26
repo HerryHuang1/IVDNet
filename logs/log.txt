@@ -1,0 +1,18 @@
+2023-06-16 00:00:00,407 - Couldn't get commit number: Command '['git', 'rev-parse', '--short', 'HEAD']' returned non-zero exit status 128.
+2023-06-16 00:00:00,407 - Arguments: 
+2023-06-16 00:00:00,407 - 	batch_size: 1
+2023-06-16 00:00:00,407 - 	epochs: 800
+2023-06-16 00:00:00,407 - 	resume_training: True
+2023-06-16 00:00:00,407 - 	milestone: [50, 60]
+2023-06-16 00:00:00,407 - 	lr: 0.0001
+2023-06-16 00:00:00,407 - 	no_orthog: False
+2023-06-16 00:00:00,407 - 	save_every: 10
+2023-06-16 00:00:00,407 - 	save_every_epochs: 5
+2023-06-16 00:00:00,407 - 	noise_ival: [0.0196078431372549, 0.21568627450980393]
+2023-06-16 00:00:00,407 - 	val_noiseL: 0.0392156862745098
+2023-06-16 00:00:00,407 - 	patch_size: 128
+2023-06-16 00:00:00,407 - 	temp_patch_size: 5
+2023-06-16 00:00:00,407 - 	max_number_patches: 25600
+2023-06-16 00:00:00,407 - 	log_dir: logs
+2023-06-16 00:00:00,407 - 	trainset_dir: ./data
+2023-06-16 00:00:00,407 - 	valset_dir: ./val
