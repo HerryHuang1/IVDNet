@@ -1,11 +1,11 @@
 # IVDNet
 
-VIDEO NOISE REMOVAL USING PROGRESSIVE DECOMPOSITIONWITH CONDITIONAL INVERTIBILITY
+VIDEO NOISE REMOVAL USING PROGRESSIVE DECOMPOSITION WITH CONDITIONAL INVERTIBILITY
 
 ## Overview
 
 This source code provides a PyTorch implementation of the IVDNet video denoising algorithm, as in 
-H. Huang, Y. Quan, Y. Huang, J. Hu, Z. Lei. ["VIDEO NOISE REMOVAL USING PROGRESSIVE DECOMPOSITIONWITH CONDITIONAL INVERTIBILITY", arXiv preprint arXiv: xxx (2023).](https://arxiv.org/abs/xxx)
+H. Huang, Y. Quan, Y. Huang, J. Hu, Z. Lei. ["VIDEO NOISE REMOVAL USING PROGRESSIVE DECOMPOSITION WITH CONDITIONAL INVERTIBILITY", arXiv preprint arXiv: xxx (2023).](https://arxiv.org/abs/xxx)
 
 
 ### Testing
